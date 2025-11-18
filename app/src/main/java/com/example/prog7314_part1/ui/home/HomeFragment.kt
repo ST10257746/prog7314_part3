@@ -652,3 +652,4 @@ class HomeFragment : Fragment() {
         badge.visibility = if (isProfileIncomplete) View.VISIBLE else View.GONE
     }
 }
+
